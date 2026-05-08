@@ -124,19 +124,18 @@ section h3 {
   border: 1px solid #d8deeb;
   border-radius: 50%;
   background-color: #ffffff;
-  color: #c62828;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1;
+  color: transparent;
+  font-size: 0;
+  line-height: 0;
   padding: 0;
+  flex: 0 0 28px;
   cursor: pointer;
-  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+  transition: background-color 0.2s, border-color 0.2s;
 }
 
 .participant-remove-button:hover {
-  background-color: #ffebee;
-  color: #9f1f1f;
-  border-color: #ef9a9a;
+  background-color: #f6f8fc;
+  border-color: #9aa9cc;
 }
 
 .participant-remove-button:focus-visible {

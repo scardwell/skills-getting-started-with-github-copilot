@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", () => {
             removeButton.className = "participant-remove-button";
             removeButton.setAttribute("aria-label", `Unregister ${participantEmail} from ${name}`);
             removeButton.title = "Unregister participant";
-            removeButton.textContent = "x";
+            removeButton.textContent = "";
 
             removeButton.addEventListener("click", () => {
               const confirmed = window.confirm(
