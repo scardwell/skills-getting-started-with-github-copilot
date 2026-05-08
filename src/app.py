@@ -74,6 +74,42 @@ activities = {
         "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
         "max_participants": 14,
         "participants": ["grace@mergington.edu", "ethan@mergington.edu"]
+    },
+    "Swimming Club": {
+        "description": "Build endurance and stroke technique through guided swim practice",
+        "schedule": "Mondays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": ["noah@mergington.edu"]
+    },
+    "Track and Field": {
+        "description": "Train for sprints, distance running, and field events",
+        "schedule": "Tuesdays and Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 22,
+        "participants": ["liam@mergington.edu", "mia@mergington.edu"]
+    },
+    "Photography Workshop": {
+        "description": "Learn composition, lighting, and visual storytelling with digital cameras",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 14,
+        "participants": ["amelia@mergington.edu"]
+    },
+    "Music Ensemble": {
+        "description": "Rehearse and perform modern and classical group pieces",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["harper@mergington.edu", "henry@mergington.edu"]
+    },
+    "Robotics Team": {
+        "description": "Design, build, and program robots for school competitions",
+        "schedule": "Thursdays, 3:30 PM - 5:30 PM",
+        "max_participants": 16,
+        "participants": ["elijah@mergington.edu"]
+    },
+    "Philosophy Circle": {
+        "description": "Discuss big ideas, ethics, and logic through guided seminars",
+        "schedule": "Fridays, 3:30 PM - 4:45 PM",
+        "max_participants": 12,
+        "participants": ["evelyn@mergington.edu", "jack@mergington.edu"]
     }
 }
 
